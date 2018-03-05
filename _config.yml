@@ -30,3 +30,5 @@ plugins:
 
 liquid:
     error_mode: lax # because of featured loop on homepage throwing minor validation error
+
+theme: jekyll-theme-time-machine
