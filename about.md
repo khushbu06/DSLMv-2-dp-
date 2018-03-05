@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 body-class: about
 ---
-## [principles.design](https://principles.design) is a place to learn about and create Design Principles
+## [Design Science modules](https://khushbu06.github.io/TrialversionDSLM/) is a place to learn about and create Design Principles
 
 The (wip) project is managed by [Ben Brignell](https://twitter.com/benbrignell) an independent product designer from London.
 
